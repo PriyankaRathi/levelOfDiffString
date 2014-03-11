@@ -32,3 +32,16 @@ namespace levelOfDiffString
        
     }
 }
+
+/*
+
+Example
+
+Input:
+aacd
+cdaa
+
+Output:
+8
+
+*/
